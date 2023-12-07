@@ -1,0 +1,9 @@
+{
+	"name": "dfaluraorquestracao",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e89510f1-2d60-4283-b967-8de7f33ba5a9",
+		"tenantId": "7dafcb88-d5ad-41fb-8a43-3f2f08adde7f"
+	}
+}
